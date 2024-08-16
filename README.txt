@@ -1,0 +1,1 @@
+Hi! I made this repository for anybody interested in obtaining data from the Chilean Congress webpage. Best of luck.
